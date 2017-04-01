@@ -1,7 +1,7 @@
 # mt6753 platform boardconfig
 LOCAL_PATH := device/elephone/p8000
 
-include vendor/mad/config/board.mk
+#include vendor/mad/config/board.mk
 
 # Platform
 ARCH_ARM_HAVE_TLS_REGISTER := true
